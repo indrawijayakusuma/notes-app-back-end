@@ -33,11 +33,11 @@ To run this project locally, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-https://github.com/indrawijayakusuma/bookShelf.git
+https://github.com/indrawijayakusuma/notes-app-back-end.git
 ```
 2. Install dependencies:
 ```bash
-cd bookshelf-api
+cd notes-app-back-end
 npm install
 ```
 3. Run the application:
